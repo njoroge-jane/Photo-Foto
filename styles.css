@@ -6,7 +6,9 @@ body {
 h1{
   text-align: center;
   color: white;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 200px;
+  font-size: 70px;
 }
 p {
   color: white;
@@ -20,6 +22,7 @@ color: rgb(216, 130, 44);
 }
 a {
   display: inline-block;
+  color: orange;
 }
 a:hover {
   color: saddlebrown;
@@ -44,5 +47,8 @@ p.pastries {
   padding: 10px;
   width: 200px;
   display: inline;
+}
+h4 {
+  color: orange;
 }
   
