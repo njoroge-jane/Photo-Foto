@@ -1,7 +1,19 @@
 body {
   background-color: black;
   color: orange;
+  text-align: center;
 }
 h1{
   text-align: center;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p {
+  color: white;
+}
+footer {
+  text-align: center;
+}
+.passion {
+color: rgb(216, 130, 44);
 }
