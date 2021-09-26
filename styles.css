@@ -12,7 +12,7 @@ p {
   color: white;
 }
 footer {
-  text-align: right;
+  text-align: center;
   color: white;
 }
 .passion {
@@ -24,3 +24,25 @@ a {
 a:hover {
   color: saddlebrown;
 }
+span {
+  column-rule: lightyellow;
+}
+#image-6 {
+  display: block;
+  width: 20%;
+  height: 20%;
+  text-align: center;
+}
+.blank {
+  border: black;
+  width: 70px;
+}
+p.pastries {
+  margin: auto;
+  margin-top: 200px;
+  margin-left: 10px;
+  padding: 10px;
+  width: 200px;
+  display: inline;
+}
+  
