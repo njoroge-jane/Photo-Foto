@@ -12,8 +12,15 @@ p {
   color: white;
 }
 footer {
-  text-align: center;
+  text-align: right;
+  color: white;
 }
 .passion {
 color: rgb(216, 130, 44);
+}
+a {
+  display: inline-block;
+}
+a:hover {
+  color: saddlebrown;
 }
